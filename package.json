@@ -64,7 +64,7 @@
     "jest": "25.5.2",
     "lint-staged": "10.2.1",
     "prettier": "2.0.5",
-    "pug": "2.0.4",
+    "pug": "3.0.0",
     "reflect-metadata": "0.1.13",
     "release-it": "13.5.7",
     "rimraf": "3.0.2",
